@@ -1,0 +1,508 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+StudentsSystem
+</name>
+</assembly>
+<members>
+<member name="P:StudentsSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:StudentsSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:StudentsSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Archive_All_EmpDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_PartsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_SectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_CoursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_GroupsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Instructor_PeriodDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_PeriodsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_RealDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Real_StudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_StudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_01_CEODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_02_AdminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_03_CoordinatorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_04_DeptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_05_UnitsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_06_ArrayDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Days_PeirodNumberDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Social_FundDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Find_duplicates_for_tbl_PeriodsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_EmployeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_PeriodsByEmp_DeptDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_tbl_PeriodsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._qry_صندوق_التكافلDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_طلبة_حصة_معينةDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.TbViewPeriodsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Archive_All_EmpRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_PartsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_SectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_CoursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_GroupsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Instructor_PeriodRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_PeriodsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_RealRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Real_StudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_StudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_01_CEORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_02_AdminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_03_CoordinatorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_04_DeptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_05_UnitsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_06_ArrayRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Days_PeirodNumberRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Social_FundRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Find_duplicates_for_tbl_PeriodsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_EmployeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_PeriodsByEmp_DeptRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_tbl_PeriodsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._qry_صندوق_التكافلRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_طلبة_حصة_معينةRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.TbViewPeriodsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Archive_All_EmpRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_PartsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Course_SectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_CoursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_GroupsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Instructor_PeriodRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_PeriodsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_RealRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_Real_StudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.tbl_StudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_01_CEORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_02_AdminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_03_CoordinatorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_04_DeptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_05_UnitsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_06_ArrayRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Days_PeirodNumberRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._tbl_Social_FundRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Find_duplicates_for_tbl_PeriodsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_EmployeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_PeriodsByEmp_DeptRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_tbl_PeriodsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._qry_صندوق_التكافلRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet._Qry_طلبة_حصة_معينةRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.Query2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet.TbViewPeriodsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Archive_All_EmpTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Course_PartsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Course_SectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_CoursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_GroupsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Instructor_PeriodTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_PeriodsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_RealTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Real_StudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_StudentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_01_CEOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_02_AdminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_03_CoordinatorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_04_DeptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_05_UnitsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_06_ArrayTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Days_PeirodNumberTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.tbl_Social_FundTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Find_duplicates_for_tbl_PeriodsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Qry_EmployeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Qry_PeriodsByEmp_DeptTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Qry_tbl_PeriodsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.qry_صندوق_التكافلTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Qry_طلبة_حصة_معينةTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Query1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.Query2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.TbViewPeriodsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(StudentsSystem.DBStudentsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(StudentsSystem.DBStudentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(StudentsSystem.DBStudentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.UpdateAll(StudentsSystem.DBStudentsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:StudentsSystem.DBStudentsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
